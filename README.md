@@ -2,7 +2,7 @@
 
 Instructions on how to run the client app code provided in the repository
 
-1) Open terminal in the ProjectV folder
+1) Open terminal in the folder
 2) run "python3 main.py"; The terminal will run teh app. Go to the link that is is at the end of "ENGINE Serving on http://..."
 3) Click Login
 4) Username : baja156 Password: Baja156_919297972
